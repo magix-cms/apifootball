@@ -3,7 +3,7 @@ Plugin Api Football for [magixcms 3](https://www.magix-cms.com)
 
 ![52586411_2216172558700610_5569833449105129472_n](https://user-images.githubusercontent.com/356674/66895434-17fc1a80-eff3-11e9-9270-ed6585b52ad2.png)
 
-###version 
+### version 
 
 [![release](https://img.shields.io/github/release/magix-cms/apifootball.svg)](https://github.com/magix-cms/apifootball/releases/latest)
 
